@@ -2352,6 +2352,7 @@ textarea.form-control {
 
 .form-group {
   margin-bottom: 1rem;
+  border-bottom: 1px solid #eae6e4;
 }
 
 .form-text {
